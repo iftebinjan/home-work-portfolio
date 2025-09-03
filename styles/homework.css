@@ -1,0 +1,20 @@
+h5{
+    color: #FF0000;
+    font-size: 16px;
+    text-align: left;
+    gap: 10px ;
+}
+h3{
+    color: #070211;
+    font-size: 48px;
+    
+}
+p{
+    color:#070211;
+    font-size: 20px;
+}
+ img{
+    text-align: center;
+   height: 450px;
+   width: 464px;
+}
